@@ -1,0 +1,14 @@
+
+# Ignore log files
+npm-debug.log.*
+
+# Ignore env files
+.env
+
+# Ignore node directories
+node_modules/
+abstrack/
+
+# Ignore DS_Store
+.DS_Store
+
